@@ -1,0 +1,12 @@
+{
+  "marble_types": [
+    {
+      "name": "Carrara",
+      "color": "White"
+    },
+    {
+      "name": "Calacatta",
+      "color": "White with bold veins"
+    }
+  ]
+}
